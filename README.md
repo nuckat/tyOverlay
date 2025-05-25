@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="images/tyOverlay.png" alt="Project Icon" width="150"/>
+</p>
+
 # tyOverlay
 A gaming overlay that is a work in progress, lacks intended features, but I will be slowly adding more to it
 
