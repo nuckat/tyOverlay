@@ -1,13 +1,16 @@
 # tyOverlay
 A gaming overlay that is a work in progress, lacks intended features, but I will be slowly adding more to it
 
-**tyOverlay** is a custom gaming overlay designed to display visual key labels on screen to match a physical 6-key mechanical macro pad. It's a personal project still in development, but I plan to add more features over time.
+**tyOverlay** is a custom gaming overlay designed to display visual key labels on screen to match a physical 6-key mechanical macro pad. It's a personal project still in development, but I plan to add more features over time. 
+
+Compilation is currently Windows-only and should work out of the box—just compile main.cpp with any C++20-capable compiler.
 
 ## Features
 
 - Realtime overlay with on-screen macro labels
 - Lightweight resource usage
 - Real-time clock and keypress highlights
+- Press F8 to close the overlay
 
 ## Planned Features
 
