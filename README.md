@@ -32,7 +32,7 @@ Compilation is currently Windows-only and should work out of the box—just comp
 - Linux support
 - Optional GUI macro binding for basic HID macro pads (experimental feature intended to support simple custom macro boards with user-friendly key remapping; long-term goal)
 
-Note: All planned features are long-term goals. tyOverlay is written in C++ and developed as a personal side project, so progress may be slow. Please do not expect rapid updates.
+Note: All planned features are long-term goals. tyOverlay is written in C++ and developed as a personal side project, so progress may be slow. Please do not expect rapid updates as I am suffering from leukemia which ruins my energy levels & makes life including coding harder. Thank you for your understanding. :)
 
 ## Status
 
