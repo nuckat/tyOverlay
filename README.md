@@ -1,8 +1,8 @@
-<p align="left">
-  <img src="images/tyOverlay.png" alt="Project Icon" width="150"/>
+<p align="center">
+  <img src="images/tyOverlay.png" alt="Project Logo" width="175"/>
 </p>
 
-# tyOverlay
+<h1 align="center">tyOverlay</h1>
 A gaming overlay that is a work in progress, lacks intended features, but I will be slowly adding more to it
 
 **tyOverlay** is a custom gaming overlay designed to display visual key labels on screen to match a physical 6-key mechanical macro pad. It's a personal project still in development, but I plan to add more features over time. 
